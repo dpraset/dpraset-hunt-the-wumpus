@@ -1,0 +1,26 @@
+H:\Documents\Period 6 C#\1063778_Prasetyo_HuntTheWumpus\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+H:\Documents\Period 6 C#\1063778_Prasetyo_HuntTheWumpus\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+H:\Documents\Period 6 C#\1063778_Prasetyo_HuntTheWumpus\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+H:\Documents\Period 6 C#\1063778_Prasetyo_HuntTheWumpus\UnitTest\bin\Debug\UnitTest.dll
+H:\Documents\Period 6 C#\1063778_Prasetyo_HuntTheWumpus\UnitTest\bin\Debug\UnitTest.pdb
+H:\Documents\Period 6 C#\1063778_Prasetyo_HuntTheWumpus\UnitTest\bin\Debug\1063778_Prasetyo_HuntTheWumpus.exe
+H:\Documents\Period 6 C#\1063778_Prasetyo_HuntTheWumpus\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+H:\Documents\Period 6 C#\1063778_Prasetyo_HuntTheWumpus\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+H:\Documents\Period 6 C#\1063778_Prasetyo_HuntTheWumpus\UnitTest\bin\Debug\1063778_Prasetyo_HuntTheWumpus.pdb
+H:\Documents\Period 6 C#\1063778_Prasetyo_HuntTheWumpus\UnitTest\bin\Debug\1063778_Prasetyo_HuntTheWumpus.exe.config
+H:\Documents\Period 6 C#\1063778_Prasetyo_HuntTheWumpus\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+H:\Documents\Period 6 C#\1063778_Prasetyo_HuntTheWumpus\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+H:\Documents\Period 6 C#\1063778_Prasetyo_HuntTheWumpus\UnitTest\obj\Debug\UnitTest.csprojResolveAssemblyReference.cache
+H:\Documents\Period 6 C#\1063778_Prasetyo_HuntTheWumpus\UnitTest\obj\Debug\UnitTest.csproj.CoreCompileInputs.cache
+H:\Documents\Period 6 C#\1063778_Prasetyo_HuntTheWumpus\UnitTest\obj\Debug\UnitTest.dll
+H:\Documents\Period 6 C#\1063778_Prasetyo_HuntTheWumpus\UnitTest\obj\Debug\UnitTest.pdb
+c:\temp\htw\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\temp\htw\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\temp\htw\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\temp\htw\UnitTest.dll
+c:\temp\htw\UnitTest.pdb
+c:\temp\htw\HighScores.txt
+H:\Documents\Period 6 C#\Hunt The Wumpus\1063778_Prasetyo_HuntTheWumpus\UnitTest\obj\Debug\UnitTest.csprojResolveAssemblyReference.cache
+H:\Documents\Period 6 C#\Hunt The Wumpus\1063778_Prasetyo_HuntTheWumpus\UnitTest\obj\Debug\UnitTest.csproj.CoreCompileInputs.cache
+H:\Documents\Period 6 C#\Hunt The Wumpus\1063778_Prasetyo_HuntTheWumpus\UnitTest\obj\Debug\UnitTest.dll
+H:\Documents\Period 6 C#\Hunt The Wumpus\1063778_Prasetyo_HuntTheWumpus\UnitTest\obj\Debug\UnitTest.pdb

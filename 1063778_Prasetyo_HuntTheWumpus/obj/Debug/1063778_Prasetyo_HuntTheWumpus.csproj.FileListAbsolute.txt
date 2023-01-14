@@ -1,0 +1,19 @@
+H:\Documents\Period 6 C#\1063778_Prasetyo_HuntTheWumpus\1063778_Prasetyo_HuntTheWumpus\bin\Debug\1063778_Prasetyo_HuntTheWumpus.exe.config
+H:\Documents\Period 6 C#\1063778_Prasetyo_HuntTheWumpus\1063778_Prasetyo_HuntTheWumpus\bin\Debug\1063778_Prasetyo_HuntTheWumpus.exe
+H:\Documents\Period 6 C#\1063778_Prasetyo_HuntTheWumpus\1063778_Prasetyo_HuntTheWumpus\bin\Debug\1063778_Prasetyo_HuntTheWumpus.pdb
+H:\Documents\Period 6 C#\1063778_Prasetyo_HuntTheWumpus\1063778_Prasetyo_HuntTheWumpus\obj\Debug\1063778_Prasetyo_HuntTheWumpus.csprojResolveAssemblyReference.cache
+H:\Documents\Period 6 C#\1063778_Prasetyo_HuntTheWumpus\1063778_Prasetyo_HuntTheWumpus\obj\Debug\1063778_Prasetyo_HuntTheWumpus.csproj.CoreCompileInputs.cache
+H:\Documents\Period 6 C#\1063778_Prasetyo_HuntTheWumpus\1063778_Prasetyo_HuntTheWumpus\obj\Debug\1063778_Prasetyo_HuntTheWumpus.exe
+H:\Documents\Period 6 C#\1063778_Prasetyo_HuntTheWumpus\1063778_Prasetyo_HuntTheWumpus\obj\Debug\1063778_Prasetyo_HuntTheWumpus.pdb
+H:\Documents\Period 6 C#\1063778_Prasetyo_HuntTheWumpus\1063778_Prasetyo_HuntTheWumpus\bin\Debug\HighScores.txt
+H:\Documents\Period 6 C#\Hunt The Wumpus\1063778_Prasetyo_HuntTheWumpus\1063778_Prasetyo_HuntTheWumpus\bin\Debug\HighScores.txt
+H:\Documents\Period 6 C#\Hunt The Wumpus\1063778_Prasetyo_HuntTheWumpus\1063778_Prasetyo_HuntTheWumpus\bin\Debug\1063778_Prasetyo_HuntTheWumpus.exe.config
+H:\Documents\Period 6 C#\Hunt The Wumpus\1063778_Prasetyo_HuntTheWumpus\1063778_Prasetyo_HuntTheWumpus\bin\Debug\1063778_Prasetyo_HuntTheWumpus.exe
+H:\Documents\Period 6 C#\Hunt The Wumpus\1063778_Prasetyo_HuntTheWumpus\1063778_Prasetyo_HuntTheWumpus\bin\Debug\1063778_Prasetyo_HuntTheWumpus.pdb
+H:\Documents\Period 6 C#\Hunt The Wumpus\1063778_Prasetyo_HuntTheWumpus\1063778_Prasetyo_HuntTheWumpus\obj\Debug\1063778_Prasetyo_HuntTheWumpus.csprojResolveAssemblyReference.cache
+H:\Documents\Period 6 C#\Hunt The Wumpus\1063778_Prasetyo_HuntTheWumpus\1063778_Prasetyo_HuntTheWumpus\obj\Debug\1063778_Prasetyo_HuntTheWumpus.csproj.CoreCompileInputs.cache
+H:\Documents\Period 6 C#\Hunt The Wumpus\1063778_Prasetyo_HuntTheWumpus\1063778_Prasetyo_HuntTheWumpus\obj\Debug\1063778_Prasetyo_HuntTheWumpus.exe
+H:\Documents\Period 6 C#\Hunt The Wumpus\1063778_Prasetyo_HuntTheWumpus\1063778_Prasetyo_HuntTheWumpus\obj\Debug\1063778_Prasetyo_HuntTheWumpus.pdb
+H:\Documents\Period 6 C#\Hunt The Wumpus\1063778_Prasetyo_HuntTheWumpus\1063778_Prasetyo_HuntTheWumpus\bin\Debug\NetLegacySupport.Tuple.dll
+H:\Documents\Period 6 C#\Hunt The Wumpus\1063778_Prasetyo_HuntTheWumpus\1063778_Prasetyo_HuntTheWumpus\bin\Debug\System.ValueTuple.dll
+H:\Documents\Period 6 C#\Hunt The Wumpus\1063778_Prasetyo_HuntTheWumpus\1063778_Prasetyo_HuntTheWumpus\bin\Debug\System.ValueTuple.xml
